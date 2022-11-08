@@ -1,0 +1,22 @@
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" id="iygb" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" id="ieeh" />
+<title>Document</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" id="iver5" />
+<nav id="ivj9g" class="navbar navbar-expand-lg"> <img alt="logo-01.png" src="/s/pages/assets/images/iyL5Llogo-01.png" id="ib3b5" /><button type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span id="ios0c" class="navbar-toggler-icon"></span> </button>
+  <div id="navbarTogglerDemo01" class="collapse navbar-collapse d-flex justify-content-between"> <a href="#" id="i7af6" class="navbar-brand"></a>
+    <div>
+      <ul class="navbar-nav mt-2 mt-lg-0">
+        <li class="nav-item px-2"> <a href="#" class="nav-link">About Us <span class="sr-only">(current)</span></a> </li>
+        <li class="nav-item px-2"> <a href="#" class="nav-link">Courses</a> </li>
+        <li class="nav-item px-2"> <a href="#" class="nav-link">Certificate</a> </li>
+        <li class="nav-item px-2"> <a href="#" class="nav-link">Placement</a> </li>
+        <li class="nav-item px-2"> <a href="#" class="nav-link">Support</a> </li>
+      </ul>
+    </div>
+    <div> <button type="button" id="ie1fm" class="btn btn-outline-success">Login</button> <button type="button" id="i7loi" class="btn btn-danger">Sign Up</button> </div>
+  </div>
+</nav>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
